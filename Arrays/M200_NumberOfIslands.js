@@ -21,12 +21,6 @@
 // Output: 3
 
 
-
-
-
-
-
-
 var numIslands = function(grid) {
   let islands = 0;
   for(let i = 0; i < grid.length; i++) {
