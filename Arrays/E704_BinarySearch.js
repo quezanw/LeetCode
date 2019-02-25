@@ -27,7 +27,6 @@ var search = function(nums, target) {
     } else {
       lower = mid + 1;
     }
-    
   }
   return -1;
 };
